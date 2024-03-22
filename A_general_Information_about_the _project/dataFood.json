@@ -1,0 +1,303 @@
+
+[
+  {
+    "id": 1000,
+    "Category": "Food",
+    "Type": "Gemüse",
+    "Subtype": "Gurken",
+    "PriceNetto": 149,
+    "PriceBrutto": 177,
+    "Unit": "Stück",
+    "weight": 1
+  },
+  {
+    "id": 1001,
+    "Category": "Food",
+    "Type": "Obst",
+    "Subtype": "Apfel",
+    "PriceNetto": 239,
+    "PriceBrutto": 284,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1002,
+    "Category": "Food",
+    "Type": "Fleisch",
+    "Subtype": "Rind Filet",
+    "PriceNetto": 5456,
+    "PriceBrutto": 6493,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1003,
+    "Category": "Food",
+    "Type": "Brot",
+    "Subtype": "Baguette",
+    "PriceNetto": 188,
+    "PriceBrutto": 224,
+    "Unit": "Stück",
+    "weight": 1
+  },
+  {
+    "id": 1004,
+    "Category": "Food",
+    "Type": "Kräuter",
+    "Subtype": "Minze",
+    "PriceNetto": 122,
+    "PriceBrutto": 145,
+    "Unit": "Bund",
+    "weight": 1
+  },
+  {
+    "id": 1005,
+    "Category": "Food",
+    "Type": "Sonstiges",
+    "Subtype": "Salz",
+    "PriceNetto": 70,
+    "PriceBrutto": 83,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1006,
+    "Category": "Food",
+    "Type": "Sonstiges",
+    "Subtype": "Zucker",
+    "PriceNetto": 110,
+    "PriceBrutto": 131,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1007,
+    "Category": "Food",
+    "Type": "Obst",
+    "Subtype": "Zitronen",
+    "PriceNetto": 1299,
+    "PriceBrutto": 1546,
+    "Unit": "Kiste",
+    "weight": 1
+  },
+  {
+    "id": 1008,
+    "Category": "Food",
+    "Type": "Obst",
+    "Subtype": "Limetten",
+    "PriceNetto": 1087,
+    "PriceBrutto": 1294,
+    "Unit": "Kiste",
+    "weight": 1
+  },
+  {
+    "id": 1009,
+    "Category": "Food",
+    "Type": "Obst",
+    "Subtype": "Melone",
+    "PriceNetto": 166,
+    "PriceBrutto": 198,
+    "Unit": "Stück",
+    "weight": 1
+  },
+  {
+    "id": 1010,
+    "Category": "Food",
+    "Type": "Obst",
+    "Subtype": "Maracuja",
+    "PriceNetto": 98,
+    "PriceBrutto": 117,
+    "Unit": "Stück",
+    "weight": 1
+  },
+  {
+    "id": 1011,
+    "Category": "Food",
+    "Type": "Sonstiges",
+    "Subtype": "Oliven",
+    "PriceNetto": 988,
+    "PriceBrutto": 1176,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1012,
+    "Category": "Food",
+    "Type": "Sonstiges",
+    "Subtype": "Mehl",
+    "PriceNetto": 56,
+    "PriceBrutto": 67,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1013,
+    "Category": "Food",
+    "Type": "Sonstiges",
+    "Subtype": "Eier",
+    "PriceNetto": 48,
+    "PriceBrutto": 57,
+    "Unit": "Stück",
+    "weight": 1
+  },
+  {
+    "id": 1014,
+    "Category": "Food",
+    "Type": "Brot",
+    "Subtype": "Gebäck",
+    "PriceNetto": 608,
+    "PriceBrutto": 724,
+    "Unit": "Kiste",
+    "weight": 1
+  },
+  {
+    "id": 1015,
+    "Category": "Food",
+    "Type": "Gemüse",
+    "Subtype": "Knoblauch",
+    "PriceNetto": 55,
+    "PriceBrutto": 65,
+    "Unit": "Stück",
+    "weight": 1
+  },
+  {
+    "id": 1016,
+    "Category": "Food",
+    "Type": "Gemüse",
+    "Subtype": "Eisberg",
+    "PriceNetto": 89,
+    "PriceBrutto": 106,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1017,
+    "Category": "Food",
+    "Type": "Gemüse",
+    "Subtype": "Rucola",
+    "PriceNetto": 72,
+    "PriceBrutto": 86,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1018,
+    "Category": "Food",
+    "Type": "Käse",
+    "Subtype": "Raclette",
+    "PriceNetto": 344,
+    "PriceBrutto": 409,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1019,
+    "Category": "Food",
+    "Type": "Fleisch",
+    "Subtype": "Schinken",
+    "PriceNetto": 420,
+    "PriceBrutto": 500,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1020,
+    "Category": "Food",
+    "Type": "Fleisch",
+    "Subtype": "Salami",
+    "PriceNetto": 299,
+    "PriceBrutto": 356,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1021,
+    "Category": "Food",
+    "Type": "Fisch",
+    "Subtype": "Thunfisch",
+    "PriceNetto": 274,
+    "PriceBrutto": 326,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1022,
+    "Category": "Food",
+    "Type": "Gemüse",
+    "Subtype": "Tomaten",
+    "PriceNetto": 122,
+    "PriceBrutto": 145,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1023,
+    "Category": "Food",
+    "Type": "Pasta",
+    "Subtype": "Spaghetti",
+    "PriceNetto": 194,
+    "PriceBrutto": 231,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1024,
+    "Category": "Food",
+    "Type": "Gemüse",
+    "Subtype": "Pommes",
+    "PriceNetto": 168,
+    "PriceBrutto": 200,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1025,
+    "Category": "Food",
+    "Type": "Sonstiges",
+    "Subtype": "Mayonnaise",
+    "PriceNetto": 178,
+    "PriceBrutto": 212,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1026,
+    "Category": "Food",
+    "Type": "Sonstiges",
+    "Subtype": "Ketchup",
+    "PriceNetto": 122,
+    "PriceBrutto": 145,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1027,
+    "Category": "Food",
+    "Type": "Kräuter",
+    "Subtype": "Basilikum",
+    "PriceNetto": 366,
+    "PriceBrutto": 436,
+    "Unit": "Bund",
+    "weight": 1
+  },
+  {
+    "id": 1028,
+    "Category": "Food",
+    "Type": "Reis",
+    "Subtype": "Reis",
+    "PriceNetto": 377,
+    "PriceBrutto": 449,
+    "Unit": "Gramm",
+    "weight": 1000
+  },
+  {
+    "id": 1029,
+    "Category": "Food",
+    "Type": "Gemüse",
+    "Subtype": "Bohnen",
+    "PriceNetto": 199,
+    "PriceBrutto": 237,
+    "Unit": "Gramm",
+    "weight": 1000
+  }
+]
